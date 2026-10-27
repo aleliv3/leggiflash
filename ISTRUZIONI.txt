@@ -1,0 +1,1 @@
+Carica i cinque file nella cartella principale del repository GitHub, non il file ZIP. Poi Settings > Pages > Deploy from a branch > main > /(root) > Save.
